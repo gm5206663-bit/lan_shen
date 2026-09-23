@@ -10,23 +10,24 @@
 | state | value |
 |---|---|
 | 🔴 epoch | **V2 — canon-parallel rebuild** (V1 archived) |
-| 📖 chapters live | **1** — Chapter_01_What_the_Master_Said.md |
-| ✍️ prose on page | **3,846 words** |
+| 📖 chapters live | **2** — Chapter_01_What_the_Master_Said.md, Chapter_02_The_Fifteen.md |
+| ✍️ prose on page | **8,779 words** |
 | 🔋 battery (last run) | **9 layers ALL GREEN (2026-09-23)** |
-| ▶️ next | ch2 — first school day + the forge door (canon 003–004), dual-track ~4,200w |
+| ▶️ next | ch3 — the foundling girl (canon 005), dual-track |
 | 🗓 status dated | 2026-09-23 |
 
-## 📖 chapters — the serial (live)  ·  1 files · 21.3K
+## 📖 chapters — the serial (live)  ·  2 files · 48.7K
 
 | file | size | status | role |
 |---|---|---|---|
 | `chapters/Chapter_01_What_the_Master_Said.md` | 21.3K (3,846 w) | 🟢 | V2 ch1 — 'What the Master Said' — dual-track canon-parallel (canon 001–002 + OC Awakening Day). Gated 9/9. |
+| `chapters/Chapter_02_The_Fifteen.md` | 27.4K (4,933 w) | ⚠️ | UNREGISTERED — add a line for this file in tools/status_gen.py |
 
-## 🏛 foundation — laws, logs, boards  ·  20 files · 741.2K
+## 🏛 foundation — laws, logs, boards  ·  21 files · 746.1K
 
 | file | size | status | role |
 |---|---|---|---|
-| `foundation/BANNED_TOKENS.json` | 13.1K | 🟢 | Drift-guard snapshot: current values + banned values of every stat. |
+| `foundation/BANNED_TOKENS.json` | 13.2K | 🟢 | Drift-guard snapshot: current values + banned values of every stat. |
 | `foundation/CANON_LEDGER.md` | 55.9K | 📜 | Canon-receipt master: what's used, pending, forbidden. |
 | `foundation/CANON_NOTES.md` | 82.7K | 🟢 | Canon quotes/bible — ingested from the control centre. |
 | `foundation/CONTINUITY.md` | 64.2K | 🟢 | Scene-level continuity record. |
@@ -34,6 +35,7 @@
 | `foundation/NO_MISTAKE_LIVE_RULES.md` | 61.5K | 🟢 | Single live table of current project numbers (drift guard). |
 | `foundation/OPEN_DECISIONS.md` | 76.6K | 🟢 | Open author decisions (empty = nothing pending). |
 | `foundation/PLAIN_WORD_LIST.md` | 5.6K | 📜 | Vocabulary bank for the plain register (FP hinges allowed). |
+| `foundation/PREWRITE_ch02.md` | 4.0K | 🗄 | V1-era prewrite board ch2 (retired with V1; mined material kept). |
 | `foundation/PREWRITE_ch10.md` | 10.6K | 🗄 | V1-era prewrite board (retired with V1, kept for mined material). |
 | `foundation/PREWRITE_ch11.md` | 9.4K | 🗄 | V1-era prewrite board ch11 (retired with V1; mined material kept). |
 | `foundation/PREWRITE_ch12.md` | 13.3K | 🗄 | V1-era prewrite board ch12 (retired with V1; mined material kept). |
@@ -41,11 +43,11 @@
 | `foundation/PREWRITE_ch14.md` | 27.3K | 🗄 | V1-era prewrite board ch14 (retired with V1; mined material kept). |
 | `foundation/PREWRITE_ch15.md` | 12.3K | 🗄 | V1-era prewrite board ch15 (retired with V1; mined material kept). |
 | `foundation/REBUILD_PLAN.md` | 7.0K | 📜 | THE law of the V2 epoch: canon-parallel doctrine, arc spine, word sizes, ends-at-academy gate. |
-| `foundation/SERIAL_LOG.md` | 176.1K | 🟢 | Chapter rows + revision rows — every number the project ever froze on. |
+| `foundation/SERIAL_LOG.md` | 176.8K | 🟢 | Chapter rows + revision rows — every number the project ever froze on. |
 | `foundation/STATUS_PANEL.md` | 26.5K | 🟢 | In-world state: vocabulary, fog, registers, inventory. |
 | `foundation/STYLE_LAW.md` | 26.0K | 📜 | Six-vertex style bans + SCOPE/ART/PLAIN/CNDR/FP readability ceilings. |
 | `foundation/THE_PLAN.md` | 40.6K | 🟢 | Arc outline surface THE PLAN (infra meta). |
-| `foundation/V2_EPOCH.md` | 1.7K | 📜 | Epoch registry — V1 retired, V2 chapter rows, git workflow law. |
+| `foundation/V2_EPOCH.md` | 1.9K | 📜 | Epoch registry — V1 retired, V2 chapter rows, git workflow law. |
 
 ## 🃏 codex — canon-faced registries  ·  4 files · 176.7K
 
@@ -173,8 +175,8 @@
 | `PROJECT_README.md` | 10.2K | 🏠 | Agent-facing quickstart — how to work this repo end-to-end. |
 | `README.md` | 7.6K | 🏠 | Public front door — pitch, doctrine, live stage line, project map. |
 | `SARA.md` | 19.7K | 🏠 | Ceremony memo at the kit lineage level (author reflections). |
-| `STATUS.md` | 15.4K | 🏠 | This file — live inventory, auto-generated, never hand-edited. |
+| `STATUS.md` | 15.7K | 🏠 | This file — live inventory, auto-generated, never hand-edited. |
 
 ---
 
-*114 files · generated 2026-09-23 · last battery: 9 layers ALL GREEN (2026-09-23)*
+*116 files · generated 2026-09-23 · last battery: 9 layers ALL GREEN (2026-09-23)*

@@ -2,7 +2,7 @@
 
 **Start here.** Then read `HANDOFF.md` for what is true *now*.
 
-🔴 V2 EPOCH (author-ordered full rebuild 2026-09-23): fifteen V1 chapters archived to _archive/v1_epoch_ch01-15 · ONE V2 chapter shipped, 3,848 prose words, the late autumn of Year 3. Set in *Soul Land 3: Legend
+🔴 V2 EPOCH (author-ordered full rebuild 2026-09-23): fifteen V1 chapters archived to _archive/v1_epoch_ch01-15 · TWO V2 chapters shipped, 8,856 prose words (verify.py), Year 0 — Awakening Day through the first school day. Set in *Soul Land 3: Legend
 of the Dragon King*, Glorybound City, Years 0-2.
 
 ---

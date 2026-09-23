@@ -123,7 +123,7 @@
    "not_banned_deliberately": {
     "receipt counts, word totals, chapter counts": "A live value, not a dead one. 'Eighteen receipts' was listed here and the instrument immediately proved the list wrong: the count on disk was nineteen, so the sentence was stale for a different reason than the ban assumed. Banning a number that is sometimes correct produces a finding that cannot be acted on. Only figures that are permanently dead belong in enforce."
    },
-   "current_values": "verify 3,848 / style_gate 3,848 (V2 EPOCH, one chapter, 2026-09-23). Banked: V1 closed 72,577/72,473 (15ch, archived); 72,648/72,544; 68,782/68,651; 62,988/62,866."
+   "current_values": "verify 8,856 / style_gate 8,779 (V2 EPOCH, two chapters: ch1 3,883 + ch2 4,973, 2026-09-23). Banked: ch1 pre-3,848/3,758; V1 closed 72,577/72,473 (15ch, archived); 72,648/72,544; 68,782/68,651; 62,988/62,866."
   },
   "removed_hard_ceiling": {
    "why": "On 2026-09-19 the author ruled that all hard power ceilings were agent inventions and removed them: 'I never said or select, I said everything go naturally.' The first draft of Lock 5 capped him at rank 91-95, barred godhood, forbade upgrades before Book Four and declared the grass permanently ordinary. Those caps must never return, in a document or in prose. Docs are in scope because that is where a ceiling would be re-imposed; the historical-marker exemption keeps the correction receipt itself legal.",

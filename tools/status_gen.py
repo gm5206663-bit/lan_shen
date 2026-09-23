@@ -144,7 +144,7 @@ lines.append("| 🔴 epoch | **V2 — canon-parallel rebuild** (V1 archived) |")
 lines.append(f"| 📖 chapters live | **{len(live_chapters)}** — {', '.join(os.path.basename(p) for p in live_chapters) or '—'} |")
 lines.append(f"| ✍️ prose on page | **{total_prose:,} words** |")
 lines.append(f"| 🔋 battery (last run) | **{BATTERY}** |")
-lines.append("| ▶️ next | ch2 — first school day + the forge door (canon 003–004), dual-track ~4,200w |")
+lines.append("| ▶️ next | ch3 — the foundling girl (canon 005), dual-track |")
 lines.append(f"| 🗓 status dated | {NOW} |")
 lines.append("")
 

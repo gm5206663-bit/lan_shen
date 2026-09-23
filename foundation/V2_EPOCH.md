@@ -25,3 +25,4 @@ locked when canon 095–105 receipts land). Map: foundation/REBUILD_PLAN.md.
 - **STATUS.md is generated, never edited.** checks/run_all.sh regenerates it at the end
   of every battery run (green or red). A new file with no registry line surfaces itself
   with a ⚠️ marker in STATUS.md — nothing hides; register it in tools/status_gen.py.
+| ch2 | The Fifteen | canon 003–004 complete · 4,973 verify words · dual-track: class of fifteen, the knife boy, gold-at-root glance, Lin Ximeng's classifications; OC = the ledger of free years + inattention as an asset | ✅ 9/9 green | tag v2-ch02 |

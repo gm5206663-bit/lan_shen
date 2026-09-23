@@ -1,10 +1,18 @@
 # LAN SHEN
 
-A reincarnation serial set in **Soul Land 3: Legend of the Dragon King**.
+A dual-track reincarnation serial set in **Soul Land 3: The Legend of the Dragon King**
+(Douluo Dalu 3), by Tang Jia San Shao. Non-commercial fan work — see
+[NOTICE.md](NOTICE.md).
 
-> **Stage: 🔴 V2 EPOCH — full rewrite in progress · one chapter shipped and gated · 3,848 prose words · the late autumn of Year 3 ·
-> next: Year 3, canon 013, the workshop, and a hundred Federation Coins nobody will spend.**
-> Started 2026-09-19. Last verified 2026-09-20.
+> **V2 EPOCH — canon-parallel rebuild in progress · 1 chapter shipped and gated ·
+> 3,883 prose words · Awakening Day, Year 0 · next: ch2, first school day + the forge
+> door (canon 003–004).**
+> Started 2026-09-19 · epoch reset 2026-09-23 · gates: 9 layers ALL GREEN.
+
+**The doctrine (what makes this build different):** canon runs *on the page*, complete
+and unskipped, in Wulin's own close-third. The original character lives in parallel —
+same clock, same streets — and a butterfly effect is only logged when the two tracks make
+contact on the page. Canon shown, never skipped; the OC added, never centered.
 
 A man who read this story dies and is reborn inside it, in Glorybound City, two doors down
 from Tang Wulin. He awakens **Bluesilver Grass at innate soul power rank one** — publicly a

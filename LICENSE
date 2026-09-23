@@ -19,35 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
---------------------------------------------------------------------------------
-SCOPE OF THIS LICENSE
-
-This MIT license covers the SOFTWARE in this repository only:
-
-    tools/verify.py          tools/style_gate.py
-    tools/canon_copy_check.py  tools/selftest.py
-    checks/run_all.sh
-    any *.json data files used by the above
-
-It does NOT license the prose. The chapters, codices, foundation files, character
-sheets and all other narrative text in this repository remain the author's own
-work, and are themselves derivative fan fiction.
-
---------------------------------------------------------------------------------
-DERIVATIVE WORK NOTICE
-
-This serial is fan fiction set in the world of Soul Land / Douluo Dalu (斗罗大陆),
-specifically its fourth series, The Legend of the Dragon King / 龙王传说. Soul Land
-and all of its characters, settings, terms, spirit beasts, martial souls, spirit
-souls and plot events are the property of Tang Jia San Shao (唐家三少) and the
-original rights holders. The original character Lan Shen (蓝深) and every event
-invented around him belong to this repository's author.
-
-Everything narrative in this repository is unofficial, non-commercial,
-transformative fan fiction. It is not endorsed by, affiliated with, or approved
-by the rights holders. Nothing here is for sale. No copyright in the underlying
-work is claimed or implied.
-
-If you are a rights holder and want something removed, open an issue or contact
-the repository owner and it will be taken down promptly.

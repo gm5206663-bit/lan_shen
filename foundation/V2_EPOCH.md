@@ -22,3 +22,6 @@ locked when canon 095–105 receipts land). Map: foundation/REBUILD_PLAN.md.
   disclaimer) — pattern matched to soul-library.
 - **No tokens in the tree, ever.** Remote URL carries none; pushes use the token on the
   command line only. Battery layer 5 greps for leaks each chapter.
+- **STATUS.md is generated, never edited.** checks/run_all.sh regenerates it at the end
+  of every battery run (green or red). A new file with no registry line surfaces itself
+  with a ⚠️ marker in STATUS.md — nothing hides; register it in tools/status_gen.py.

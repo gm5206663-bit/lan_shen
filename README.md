@@ -9,6 +9,8 @@ A dual-track reincarnation serial set in **Soul Land 3: The Legend of the Dragon
 > door (canon 003–004).**
 > Started 2026-09-19 · epoch reset 2026-09-23 · gates: 9 layers ALL GREEN.
 
+**Map:** [STATUS.md](STATUS.md) lists every file, its role, and the live numbers — auto-generated, always current.
+
 **The doctrine (what makes this build different):** canon runs *on the page*, complete
 and unskipped, in Wulin's own close-third. The original character lives in parallel —
 same clock, same streets — and a butterfly effect is only logged when the two tracks make

@@ -102,10 +102,12 @@ echo "----------------------------------------------------------------------"
 if [ "$FAIL" -eq 0 ]; then
   printf '  ALL GREEN — %s layers held, 0 failed\n' "$PASS"
   echo "----------------------------------------------------------------------"
+  python3 tools/status_gen.py "9 layers ALL GREEN ($(date +%F))" 2>/dev/null | sed 's/^/  STATUS: /'
   exit 0
 fi
 printf '  %s held | %s FAILED:%s\n' "$PASS" "$FAIL" "$FAILED"
 echo "----------------------------------------------------------------------"
 echo "  Do not ship. Fix the gate if the gate is wrong; fix the work if the"
 echo "  work is wrong. Never lower a threshold to make a layer pass."
+python3 tools/status_gen.py "FAILED: $PASS held, $FAIL failed ($(date +%F))" 2>/dev/null | sed 's/^/  STATUS: /'
 exit 1

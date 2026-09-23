@@ -1,0 +1,53 @@
+MIT License
+
+Copyright (c) 2026 Gaurav Meena
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+SCOPE OF THIS LICENSE
+
+This MIT license covers the SOFTWARE in this repository only:
+
+    tools/verify.py          tools/style_gate.py
+    tools/canon_copy_check.py  tools/selftest.py
+    checks/run_all.sh
+    any *.json data files used by the above
+
+It does NOT license the prose. The chapters, codices, foundation files, character
+sheets and all other narrative text in this repository remain the author's own
+work, and are themselves derivative fan fiction.
+
+--------------------------------------------------------------------------------
+DERIVATIVE WORK NOTICE
+
+This serial is fan fiction set in the world of Soul Land / Douluo Dalu (斗罗大陆),
+specifically its fourth series, The Legend of the Dragon King / 龙王传说. Soul Land
+and all of its characters, settings, terms, spirit beasts, martial souls, spirit
+souls and plot events are the property of Tang Jia San Shao (唐家三少) and the
+original rights holders. The original character Lan Shen (蓝深) and every event
+invented around him belong to this repository's author.
+
+Everything narrative in this repository is unofficial, non-commercial,
+transformative fan fiction. It is not endorsed by, affiliated with, or approved
+by the rights holders. Nothing here is for sale. No copyright in the underlying
+work is claimed or implied.
+
+If you are a rights holder and want something removed, open an issue or contact
+the repository owner and it will be taken down promptly.

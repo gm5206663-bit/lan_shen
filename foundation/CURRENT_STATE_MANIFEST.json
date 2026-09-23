@@ -1,0 +1,250 @@
+{
+  "schema": "lan-shen-manifest/1",
+  "derived_from": "storyos-site/framework/foundation/CURRENT_STATE_MANIFEST.json",
+  "project": "Lan Shen - Soul Land 3 reincarnation serial",
+  "generated": "2026-09-21",
+  "generator": "tools/scan_project.py",
+  "provenance": "MEASURED, not asserted. Every number in this file was counted off the disk when it was generated. Where a hand-written document disagrees with this file, this file wins, because this file was measured.",
+  "edge": {
+    "chapter_files": 14,
+    "last_file": "chapters/Chapter_14_The_Empty_Case.md",
+    "last_title": "The Empty Case",
+    "prose_words_total": 68651,
+    "word_count_convention": "prose_words here follows the style_gate.py convention (fenced apparatus stripped), so the total is comparable to the per-chapter tables in README.md and not to the verify.py headline. The two conventions differ by a small, explained amount; never mix them inside one table."
+  },
+  "chapters": [
+    {
+      "file": "chapters/Chapter_01_What_He_Said.md",
+      "title": "What He Said",
+      "heading_number": "One",
+      "prose_words": 5843,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_02_The_Second_Weed.md",
+      "title": "The Second Weed",
+      "heading_number": "Two",
+      "prose_words": 4846,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_03_Two_Doors_Down.md",
+      "title": "Two Doors Down",
+      "heading_number": "Three",
+      "prose_words": 6439,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_04_Five_Kilograms.md",
+      "title": "Five Kilograms",
+      "heading_number": "Four",
+      "prose_words": 5411,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_05_The_Better_Version.md",
+      "title": "The Better Version",
+      "heading_number": "Five",
+      "prose_words": 5500,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_06_What_Grows_in_Cracks.md",
+      "title": "What Grows in Cracks",
+      "heading_number": "Six",
+      "prose_words": 4345,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_07_Six_Days.md",
+      "title": "Six Days",
+      "heading_number": "Seven",
+      "prose_words": 4790,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_08_The_Complaint.md",
+      "title": "The Complaint",
+      "heading_number": "Eight",
+      "prose_words": 3528,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_09_Steps.md",
+      "title": "Steps",
+      "heading_number": "Nine",
+      "prose_words": 4964,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_10_The_Column.md",
+      "title": "The Column",
+      "heading_number": "Ten",
+      "prose_words": 4578,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_11_Four_Hours.md",
+      "title": "Four Hours",
+      "heading_number": "Eleven",
+      "prose_words": 3782,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_12_The_Middle.md",
+      "title": "The Middle",
+      "heading_number": "Twelve",
+      "prose_words": 3526,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_13_Made_Up.md",
+      "title": "Made Up",
+      "heading_number": "Thirteen",
+      "prose_words": 5314,
+      "has_panel": true
+    },
+    {
+      "file": "chapters/Chapter_14_The_Empty_Case.md",
+      "title": "The Empty Case",
+      "heading_number": "Fourteen",
+      "prose_words": 5785,
+      "has_panel": true
+    }
+  ],
+  "canon": {
+    "receipts_on_disk": 21,
+    "files": [
+      "canon_001_excerpt.txt",
+      "canon_002_excerpt.txt",
+      "canon_003_excerpt.txt",
+      "canon_004_excerpt.txt",
+      "canon_005_excerpt.txt",
+      "canon_006_excerpt.txt",
+      "canon_007_excerpt.txt",
+      "canon_008_excerpt.txt",
+      "canon_009_excerpt.txt",
+      "canon_010_excerpt.txt",
+      "canon_011_excerpt.txt",
+      "canon_012_excerpt.txt",
+      "canon_013_excerpt.txt",
+      "canon_014_excerpt.txt",
+      "canon_015_excerpt.txt",
+      "canon_016_excerpt.txt",
+      "canon_017_excerpt.txt",
+      "canon_018_excerpt.txt",
+      "canon_019_excerpt.txt",
+      "canon_020_excerpt.txt",
+      "canon_021_excerpt.txt"
+    ],
+    "extracted_through": "canon_021_excerpt.txt"
+  },
+  "governance": {
+    "locks_in_NO_MISTAKE_LIVE_RULES": {
+      "total_distinct_in_force": 16,
+      "constitution_count": 12,
+      "constitution_names": [
+        "ERA",
+        "PROTAGONIST",
+        "CANON ENTRY",
+        "SPINE",
+        "POWER",
+        "IDENTITY",
+        "ABSOLUTES",
+        "CANON IMMUNITY",
+        "MEASUREMENT",
+        "VOICE",
+        "CADENCE",
+        "HANDOFF"
+      ],
+      "live_lock_numbers": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "numbering_collision": [
+        11,
+        12
+      ],
+      "collision_rule": "A bare LOCK n means the live lock. Cite constitution locks by name."
+    },
+    "foundation_docs": [
+      "CANON_LEDGER.md",
+      "CANON_NOTES.md",
+      "CONTINUITY.md",
+      "NO_MISTAKE_LIVE_RULES.md",
+      "OPEN_DECISIONS.md",
+      "PLAIN_WORD_LIST.md",
+      "PREWRITE_ch10.md",
+      "PREWRITE_ch11.md",
+      "PREWRITE_ch12.md",
+      "PREWRITE_ch13.md",
+      "PREWRITE_ch14.md",
+      "SERIAL_LOG.md",
+      "STATUS_PANEL.md",
+      "STYLE_LAW.md",
+      "THE_PLAN.md"
+    ],
+    "codex_docs": [
+      "CHARACTERS.md",
+      "KNOWLEDGE_FIREWALLS.md",
+      "PLACES.md",
+      "TIMELINE.md"
+    ],
+    "banned_token_categories": [
+      "deleted_mistake_route",
+      "forbidden_currentization",
+      "fourth_wall",
+      "removed_hard_ceiling",
+      "stale_stat_drift"
+    ]
+  },
+  "tree": {
+    "chapters_files": 14,
+    "foundation_files": 17,
+    "codex_files": 4,
+    "canon_extract_files": 23,
+    "tools_files": 7
+  },
+  "control_centre": {
+    "registered": true,
+    "registry": "github:gm5206663-bit/the-universal-storyline-creation- state/projects_registry.json",
+    "filed": "2026-09-20",
+    "contributions": 57,
+    "kinds": {
+      "project": 1,
+      "lock": 12,
+      "firewall": 14,
+      "anchor": 8,
+      "decision": 6,
+      "correction": 7,
+      "canon": 6,
+      "note": 3
+    },
+    "validator": "PASS with no issues, then ingested; the Control Centre selftest stayed 102/102 after the rebuild.",
+    "note": "The contribution file is intake/accepted/lan_shen_contributions.json in the Control Centre clone at ref/control_centre/. It was filed by this agent and is append-only there; nothing in it can be silently overwritten."
+  },
+  "project_sweep": {
+    "ran": true,
+    "exit": 0,
+    "verdict": "PASS",
+    "filename_law_bad": 0,
+    "cjk_chapters": "chapters with unreadable script: 0/14 -> clean",
+    "cjk_docs": "docs carrying CJK: 25/50 (advisory, ruling pending)",
+    "backslash_n_in_story": 0,
+    "digits_in_story": "chapters with digits in the story: 0/14",
+    "chapters_under_three_dialogue_lines": 0,
+    "chapters_carrying_a_footer": 0,
+    "footer_note": "Lock 9 says no footer, none, not one line. This census is the instrument that proves it, and it is why the sweep is captured at all."
+  },
+  "gates": {
+    "ran": true,
+    "exit": 0,
+    "all_green": true,
+    "layers_held": 9,
+    "layers_failed": 0
+  }
+}

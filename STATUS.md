@@ -12,7 +12,7 @@
 | 🔴 epoch | **V2 — canon-parallel rebuild** (V1 archived) |
 | 📖 chapters live | **2** — Chapter_01_What_the_Master_Said.md, Chapter_02_The_Fifteen.md |
 | ✍️ prose on page | **8,779 words** |
-| 🔋 battery (last run) | **9 layers ALL GREEN (2026-09-23)** |
+| 🔋 battery (last run) | **9 layers ALL GREEN (2026-09-26)** |
 | ▶️ next | ch3 — the foundling girl (canon 005), dual-track |
 | 🗓 status dated | 2026-09-26 |
 
@@ -173,10 +173,10 @@
 | `LICENSE` | 1.0K | 🏠 | MIT License © 2026 Gaurav Meena — house standard. |
 | `NOTICE.md` | 950B | 🏠 | Soul Land / Tang Jia San Shao IP disclaimer — fan-work terms. |
 | `PROJECT_README.md` | 10.2K | 🏠 | Agent-facing quickstart — how to work this repo end-to-end. |
-| `README.md` | 7.6K | 🏠 | Public front door — pitch, doctrine, live stage line, project map. |
+| `README.md` | 7.8K | 🏠 | Public front door — pitch, doctrine, live stage line, project map. |
 | `SARA.md` | 19.7K | 🏠 | Ceremony memo at the kit lineage level (author reflections). |
 | `STATUS.md` | 15.7K | 🏠 | This file — live inventory, auto-generated, never hand-edited. |
 
 ---
 
-*116 files · generated 2026-09-26 · last battery: 9 layers ALL GREEN (2026-09-23)*
+*116 files · generated 2026-09-26 · last battery: 9 layers ALL GREEN (2026-09-26)*

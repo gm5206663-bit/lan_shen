@@ -14,14 +14,14 @@
 | ✍️ prose on page | **8,779 words** |
 | 🔋 battery (last run) | **9 layers ALL GREEN (2026-09-23)** |
 | ▶️ next | ch3 — the foundling girl (canon 005), dual-track |
-| 🗓 status dated | 2026-09-23 |
+| 🗓 status dated | 2026-09-26 |
 
 ## 📖 chapters — the serial (live)  ·  2 files · 48.7K
 
 | file | size | status | role |
 |---|---|---|---|
 | `chapters/Chapter_01_What_the_Master_Said.md` | 21.3K (3,846 w) | 🟢 | V2 ch1 — 'What the Master Said' — dual-track canon-parallel (canon 001–002 + OC Awakening Day). Gated 9/9. |
-| `chapters/Chapter_02_The_Fifteen.md` | 27.4K (4,933 w) | ⚠️ | UNREGISTERED — add a line for this file in tools/status_gen.py |
+| `chapters/Chapter_02_The_Fifteen.md` | 27.4K (4,933 w) | 🟢 | V2 ch2 — 'The Fifteen' — first school day + forge door (canon 003–004). Gated 9/9. |
 
 ## 🏛 foundation — laws, logs, boards  ·  21 files · 746.1K
 
@@ -88,7 +88,7 @@
 | `canon_extract/chapters/canon_024_excerpt.txt` | 4.4K | 📄 | Novel chapter 24 quotation receipt — the canon spine for that beat. |
 | `canon_extract/readnovelfull_map.txt` | 50.5K | 🧰 | Original mirror map the extraction used (URLs). |
 
-## 🧰 tools + checks — the gates  ·  9 files · 113.1K
+## 🧰 tools + checks — the gates  ·  9 files · 113.2K
 
 | file | size | status | role |
 |---|---|---|---|
@@ -98,7 +98,7 @@
 | `tools/plain_word_check.py` | 2.7K | 🧰 | Plain-register wordlist audit of chapters. |
 | `tools/scan_project.py` | 12.8K | 🧰 | Deterministic scope-line tracker for workspace files. |
 | `tools/selftest.py` | 18.0K | 🧰 | Test suite for every tool above (regression harness). |
-| `tools/status_gen.py` | 11.2K | 🧰 | This generator — rebuilds STATUS.md from the tree. |
+| `tools/status_gen.py` | 11.3K | 🧰 | This generator — rebuilds STATUS.md from the tree. |
 | `tools/style_gate.py` | 16.3K | 🧰 | Style gates + Fire Phoenix readability ceilings. |
 | `tools/verify.py` | 25.9K | 🧰 | Scene skeleton verifier — canonical structure gate. |
 
@@ -179,4 +179,4 @@
 
 ---
 
-*116 files · generated 2026-09-23 · last battery: 9 layers ALL GREEN (2026-09-23)*
+*116 files · generated 2026-09-26 · last battery: 9 layers ALL GREEN (2026-09-23)*

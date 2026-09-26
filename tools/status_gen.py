@@ -33,6 +33,8 @@ REGISTRY = {
     # chapters
     "chapters/Chapter_01_What_the_Master_Said.md":
         ("🟢", "V2 ch1 — 'What the Master Said' — dual-track canon-parallel (canon 001–002 + OC Awakening Day). Gated 9/9."),
+    "chapters/Chapter_02_The_Fifteen.md":
+        ("🟢", "V2 ch2 — 'The Fifteen' — first school day + forge door (canon 003–004). Gated 9/9."),
     # foundation
     "foundation/REBUILD_PLAN.md":       ("📜", "THE law of the V2 epoch: canon-parallel doctrine, arc spine, word sizes, ends-at-academy gate."),
     "foundation/V2_EPOCH.md":           ("📜", "Epoch registry — V1 retired, V2 chapter rows, git workflow law."),

@@ -4,10 +4,9 @@ A dual-track reincarnation serial set in **Soul Land 3: The Legend of the Dragon
 (Douluo Dalu 3), by Tang Jia San Shao. Non-commercial fan work — see
 [NOTICE.md](NOTICE.md).
 
-> **V2 EPOCH — canon-parallel rebuild in progress · 1 chapter shipped and gated ·
-> 3,883 prose words · Awakening Day, Year 0 · next: ch2, first school day + the forge
-> door (canon 003–004).**
-> Started 2026-09-19 · epoch reset 2026-09-23 · gates: 9 layers ALL GREEN.
+> **V2 EPOCH — canon-parallel rebuild in progress · 2 chapters shipped and gated ·
+> 8,779 prose words · Awakening Day + First School Day, Year 0 · next: ch3, the foundling girl (canon 005).**
+> Started 2026-09-19 · epoch reset 2026-09-23 · V2 live 2026-09-26 · gates: 9 layers ALL GREEN.
 
 **Map:** [STATUS.md](STATUS.md) lists every file, its role, and the live numbers — auto-generated, always current.
 
@@ -31,18 +30,24 @@ body, and for thirteen chapters his entire project has been **not to be noticed*
 | **`HANDOFF.md`** | What is true *now*, the authority order, and which file wins when two disagree |
 | **`foundation/NO_MISTAKE_LIVE_RULES.md`** | **The sixteen locks.** Constitution + current state + every user ruling verbatim with its date |
 | **`SARA.md`** | The partner's self-file — who Sara is, the standing rules in the author's own words, and a growth ledger that is appended to every session |
-| `chapters/` | The serial. `Chapter_01` … `Chapter_13` |
+| `chapters/` | The serial — V2 live: 2 chapters (8,779w) · V1 archived: 15 chapters (see below) |
 | `audits/` | Dated audit records. Entry one is the full comparative audit of 2026-09-20 |
 | `checks/run_all.sh` | **One command, nine layers.** `sh checks/run_all.sh` → ALL GREEN, exit 0 |
 | `LICENSE` | MIT for the tooling; derivative-work notice for the prose |
 | `_kit_reference/NOTICE.md` | Why the vendored kit copy is kept, and which files are authoritative |
 
-## The chapters
+## The chapters — V2 LIVE
 
-**The headline total is always `verify.py` — 3,848.** The per-chapter figures below are
-`style_gate.py` counts, because that is what `STATUS_PANEL.md` uses and the two must not appear
-to disagree. The gap is a near-constant nine to nineteen words per chapter (3,848 summed); both
-are correct, they extract prose slightly differently. **Never mix the two inside one table.**
+| # | File | Words | Beat |
+|---|---|---|---|
+| 01 | Chapter_01_What_the_Master_Said.md | 3,846w | Awakening Day. A father does the arithmetic out loud. Canon 001-002. |
+| 02 | Chapter_02_The_Fifteen.md | 4,933w | First school day + forge door. Canon 003-004. |
+
+**Total V2 prose:** 8,779 words · 9-layer gate ALL GREEN.
+
+## The chapters — V1 ARCHIVED (15 chapters, pre-rebuild, kept for reference)
+
+> V1 was retired 2026-09-23. The numbers below are `style_gate.py` counts post-repair. They are **not live** — V2 is the live serial.
 
 ```
 01  What He Said              5,843w   Awakening Day. A father does the arithmetic out loud.
